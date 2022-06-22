@@ -36,7 +36,7 @@ class App
         if ($push) $this->saveToDb($iterator);
     }
 
-    // needs customization accordingly to input data representation/format
+    // TODO customize accordingly to input data representation/format
     public function saveToDb($iterator)
     {
         $sql = "INSERT INTO `table_name` "

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CSV_read_to_db.iml" filepath="$PROJECT_DIR$/.idea/CSV_read_to_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/large_file_iterator.iml" filepath="$PROJECT_DIR$/.idea/large_file_iterator.iml" />
     </modules>
   </component>
 </project>
